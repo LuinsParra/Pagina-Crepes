@@ -41,7 +41,7 @@
 <body>
     <header>
         <img src="https://i.imgur.com/X1UYKEM.png" alt="Logo de Crepes Gaby">
-        <h1>LG Crepes</h1>
+        <h1>El Rincon Dulce</h1>
         <p>Sabor sin límites</p>
     </header>
     <nav>
